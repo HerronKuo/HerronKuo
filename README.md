@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 ## This is Herron!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=woshixiaoguo&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=HerronKuo&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 </a>
 
-Welcome to my Github page! I'm Guoguo, a **full stack** developer.
+Welcome to my Github page! I'm Herron, a **full stack** developer.
 
 I majored in **software engineering** at the undergraduate stage, and I did some **deep learning** work at the master's level.
 
@@ -29,7 +29,7 @@ I'm passionate about creating software and tools to help people, and solving **r
 ## Skills
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woshixiaoguo&theme=radical" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerronKuo&theme=tokyonight" />
 </a>
 
 ![Static Badge](https://img.shields.io/badge/Spring-141323?logo=spring)
